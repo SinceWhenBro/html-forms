@@ -1,0 +1,17 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+div{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  padding-bottom: 5px;
+}
+
+
